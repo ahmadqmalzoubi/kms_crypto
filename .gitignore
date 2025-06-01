@@ -1,0 +1,20 @@
+# Rust build output
+/target/
+
+# Rust/Cargo files
+**/*.rs.bk
+Cargo.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary keys or JSON
+keys.json
