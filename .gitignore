@@ -19,3 +19,6 @@ Thumbs.db
 # Temporary keys or JSON
 keys.json
 keys/
+
+# Ignore runtime key metadata
+keys.json.metadata
